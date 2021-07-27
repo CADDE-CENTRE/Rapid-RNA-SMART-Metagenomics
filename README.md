@@ -1,3 +1,3 @@
 # Rapid-RNA-SMART-Metagenomics
 
-Manuscript and data to reproduce analysis of Rapid-RNA-SMART-Metagenomics study.
+Manuscript, raw-data and Consensus sequences to reproduce analysis of Rapid-RNA-SMART-Metagenomics study.
